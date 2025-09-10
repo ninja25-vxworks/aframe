@@ -1,4 +1,5 @@
----
+---navigator.xr.requestSession("immersive-vr")
+
 title: "HTML & Primitives"
 type: introduction
 layout: docs
